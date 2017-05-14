@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'WifiBytes_login'" />
-    <option name="defaultScopeName" value="Project 'WifiBytes_login'" />
-    <option name="SEARCH_SCOPE" value="Project 'WifiBytes_login'" />
+    <option name="customScope" value="Project 'MyApplication4'" />
+    <option name="defaultScopeName" value="Project 'MyApplication4'" />
+    <option name="SEARCH_SCOPE" value="Project 'MyApplication4'" />
   </component>
 </application>
