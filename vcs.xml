@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/firebase/quickstart-android/tree/master/auth" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amlluch/Iot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\amllu\AndroidStudioProjects" />
